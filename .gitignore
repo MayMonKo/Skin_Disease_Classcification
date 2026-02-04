@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Datasets (DO NOT TRACK)
+model_training/IMG_CLASSES/
+model_training/data/
+
+# Model outputs
+*.pth
+*.pt
+outputs/
+model_training/outputs/
+
+# Environment
+.env
+.venv
+venv/
+
+# OS
+.DS_Store
+Thumbs.db
