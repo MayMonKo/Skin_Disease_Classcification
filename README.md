@@ -24,7 +24,7 @@ This project is intended **strictly for educational and technical demonstration 
 
 ---
 
-## System Architecture (High-Level)
+## System Architecture 
 
 ```text
 Frontend (React / Vercel)
